@@ -1,0 +1,20 @@
+{
+    "name": "haikson/sitemap-generator",
+    "type": "library",
+    "description": "Sitemap crawler and generator class",
+    "keywords": ["sitemap","crawler"],
+    "homepage": "https://github.com/Haikson/sitemap-generator",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Schturmfogel",
+            "email": "im@hateme.ru",
+            "homepage": "http://www.hateme.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "beautifulsoup4": ">=4.4.0",
+        "mechanize": ">=0.2.5"
+    }
+}
